@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class Algorithm {
 
-    private String FILE_PATH = "dicctionary.txt";
+    private String FILE_PATH = "dictionary.txt";
     private Map<String, String> dictionary;
 
     public Algorithm() {
