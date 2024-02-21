@@ -1,0 +1,5 @@
+hello:xinchao
+yasuo:15pGG
+japanese:tiengnhat
+english:tienganh
+vietnamese:tiengviet
