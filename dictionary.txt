@@ -1,5 +1,5 @@
 hello:xinchao
-yasuo:15pGG
+bye:tambiet
 japanese:tiengnhat
 english:tienganh
 vietnamese:tiengviet
